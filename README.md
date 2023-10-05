@@ -1,2 +1,4 @@
-# Formulario Html
- Formulario simples em html e css
+# Formulário Html
+
+Formulário simples em html e css.
+Formulário criado para praticar.
